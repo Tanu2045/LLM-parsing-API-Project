@@ -1,4 +1,4 @@
-# ZIP-to-Representative Lookup — Civic Tracker Prototype
+# ZIP-to-Representative Lookup — Civic Tracker Project
 
 Lightweight prototype that returns U.S. elected officials for a given ZIP code using simple scraping, LLM-assisted extraction, and an SQLite-backed API built with Flask.
 
