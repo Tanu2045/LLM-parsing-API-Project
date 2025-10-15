@@ -162,10 +162,7 @@ Contributions welcome via issues and pull requests. Ideas:
 
 ---
 
-## Demo
-Video demo: https://drive.google.com/file/d/1Fg7OYozHXtNWU2QfWw4aPktkLxYc2gDh/view?usp=sharing
 
----
 
 ## Author
 Tanu2045
